@@ -1,0 +1,13 @@
+{
+  "name": "53005a7b26d12be55c000243",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./",
+    "test": "node index.test.js"
+  },
+  "keywords": [],
+  "author": "kraftwerk28 <kefirchik3@gmail.com>",
+  "license": "ISC"
+}
